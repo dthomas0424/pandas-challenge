@@ -1,1 +1,5 @@
 # pandas-challenge
+
+In this exercise we were given 2 data sets regarding students and schools. We had to take the data, combine it and extract certain points from it to gain an understanding of what the data means. The 2 grade metrics that were used were math scores and reading scores. We grouped schools by the highest performing, lowest performing, type of school and per student budget. 
+
+I was able to observe from the data that per student spending did not necessarily have a positive impact on the math and reading performance of the students. In fact the schools with spending ranges above $645 had the worst overall passing percentage of 53.53. Another observation I was able to make was the schools that are smaller in size had overall better scores than the larger schools. Taking these observations into account would lead me to believe that money spent on additional schools to reduce class sizes would be a better use of funding as opposed to larger schools with higher per student spending.
